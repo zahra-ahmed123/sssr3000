@@ -1,0 +1,35 @@
+MIT Lisens
+
+Opphavsrett (c) 2024 Zahra Ahmed
+
+Tillatelse gis herved, uten vederlag, til enhver person som skaffer seg en kopi
+av dette programvare og tilhørende dokumentasjonsfiler («Programvaren»), til å håndtere
+Programvaren uten begrensning, inkludert uten begrensning rettighetene
+til å bruke, kopiere, endre, slå sammen, publisere, distribuere, underlisensiere og / eller selge
+kopier av Programvaren, og til å tillate personer som mottar Programvaren
+å gjøre det, underlagt følgende vilkår:
+
+Denne opphavsrettslige meldingen og denne tillatelsesmeldingen skal inkluderes i alle
+kopier eller betydelige deler av programvaren.
+
+PROGRAMVAREN LEVERES "SOM DEN ER", UTEN GARANTIER AV NOE SLAG, UTTRYKTE ELLER
+UNDERFORSTÅTTE, INKLUDERT MEN IKKE BEGRENSET TIL GARANTIER OM SALGBARHET,
+EGNETHET FOR ET BESTEMT FORMÅL OG FRASKRIVELSE AV BRUDD. UNDER INGEN OMSTENDIGHETER SKAL
+OPPHAVSRETTSHOLDERNE ELLER KOPYRETTSINNEHAVERNE VÆRE ANSVARLIG FOR NOEN
+KRUV, SKADER ELLER ANDRE ANSVARSOMRÅDER, UANSETT OM DET ER EN AKSJON AV KONTRAKT,
+TORT ELLER ANNET, SOM OPPSTÅR UT AV ELLER I FORBINDELSE MED PROGRAMVAREN ELLER BRUKEN ELLER
+ANDRE FORHOLD TIL PROGRAMVAREN.
+
+---
+
+## Tredjeparts kode
+
+Dette prosjektet inkluderer kode skrevet av Saumit Dinesan, lisensiert under MIT-lisensen:
+
+- [Kode fra Saumit Dinesan](https://github.com/justsaumit/opencv-face-recognition-rpi4/tree/main/face-detection): Developed by Saumit Dinesan @ 2023
+## Beskrivelse av hvordan den brukes.
+- Brukte denne koden ettersom den var lagt ut av foreleser som en guideline til hvordan jeg skulle løse oppgaven
+	siden dette var veldig lik prosjektet vårt. Bruke facial recognition delen, facial trener og hvordan systemet tar bilder av anskitene for å trene de opp
+	bruker også clasifier haarcascade som er pretrent medell slik som kildekoden. 
+
+
