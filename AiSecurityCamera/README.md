@@ -65,7 +65,7 @@ Dette prosjektet bruker følgende biblioteker:
 
 ## Kilder
 
-- [https://github.com/justsaumit/opencv-face-recognition-rpi4/tree/main/face-detection]--> Fra moduler i canvas lagt ut av foreleser- 
+- (https://github.com/justsaumit/opencv-face-recognition-rpi4.git--> Fra moduler i canvas lagt ut av foreleser- 
 - [forelesningsNotater]
 
 ## Lisens
