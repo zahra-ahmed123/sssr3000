@@ -17,8 +17,7 @@ og utfører gjenkjenning basert på forhåndstrente modeller.
 1. Klon dette depotet:
 
     ```bash
-    git clone https://github.com/dinbrukernavn/ditt-repo.git
-    cd ditt-repo
+    git clone https://github.com/zahra-ahmed123/sssr3000.git
     ```
 
 2. Installer de nødvendige Python-pakkene: --> pass på å ikke ovride me external environment
