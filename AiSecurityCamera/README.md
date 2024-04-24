@@ -70,4 +70,4 @@ Dette prosjektet bruker følgende biblioteker:
 
 ## Lisens
 
-Dette prosjektet er lisensiert under MIT Lisensen - se [LICENSE](LICENSE)-filen for detaljer.
+Dette prosjektet er lisensiert under MIT Lisensen - se [LICENSE] AiSecurityCamera/LICENSE
